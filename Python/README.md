@@ -81,5 +81,5 @@
 0   1   0   1   0
 
 ### Решение: 
-1. Решение от 10 июнь 2026 г. 
+1. Решение от 10 июнь 2026 г. [\/Chessboard.py](https://github.com/Ruzilya372/Practice/blob/main/Python/Cheessboard.py)
 
